@@ -11,7 +11,7 @@ This repository aims to provide simple and ready-to-use tutorials for Monte Carl
 
 Each tutorial includes ``source code`` and associated ``documentation``.
 
-.. image:: _img/mainpage/TensorFlow_World.gif
+.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Cover.jpg?raw=true
 
 .. The links.
 .. _wiki: https://github.com/astorfi/TensorFlow-World/wiki
