@@ -1,5 +1,5 @@
 
-.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download.png
+.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download_Button.png
    :target: https://doi.org/10.5281/zenodo.1407154
 ********************
 `2D Monte Carlo Ray Trace`_
