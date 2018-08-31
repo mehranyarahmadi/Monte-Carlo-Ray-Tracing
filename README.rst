@@ -1,6 +1,6 @@
 
 ********************
-`TensorFlow World`_
+`2D Monte Carlo Ray Trace`_
 ********************
 .. image:: https://travis-ci.org/astorfi/TensorFlow-World.svg?branch=master
     :target: https://travis-ci.org/astorfi/TensorFlow-World
@@ -15,7 +15,7 @@
 
 .. _TensorFlow World: http://tensorflow-world.readthedocs.io/en/latest/
 
-This repository aims to provide simple and ready-to-use tutorials for TensorFlow. The explanations are present in the wiki_ associated with this repository.
+This repository aims to provide simple and ready-to-use tutorials for Monte Carlo Ray Trace Method applied in Radiation Heat Transfer. The explanations are present in the wiki_ associated with this repository.
 
 Each tutorial includes ``source code`` and associated ``documentation``.
 
