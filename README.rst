@@ -2,7 +2,7 @@
 .. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download_Button.png
    :target: https://doi.org/10.5281/zenodo.1407154
 ********************
-`2D Monte Carlo Ray Trace`_
+`2D Monte Carlo Ray Tracing`_
 ********************
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1407187.svg
    :target: https://doi.org/10.5281/zenodo.1407154
