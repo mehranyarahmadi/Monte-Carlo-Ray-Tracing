@@ -2,20 +2,12 @@
 ********************
 `2D Monte Carlo Ray Trace`_
 ********************
-.. image:: https://travis-ci.org/astorfi/TensorFlow-World.svg?branch=master
-    :target: https://travis-ci.org/astorfi/TensorFlow-World
-.. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/astorfi/TensorFlow-World/issues
-.. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
-    :target: https://github.com/ellerbrock/open-source-badge/
-.. image:: https://coveralls.io/repos/github/astorfi/TensorFlow-World/badge.svg?branch=master
-    :target: https://coveralls.io/github/astorfi/TensorFlow-World?branch=master
-.. image:: https://zenodo.org/badge/86115145.svg
-   :target: https://zenodo.org/badge/latestdoi/86115145
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1407155.svg
+   :target: https://doi.org/10.5281/zenodo.1407155
 
 .. _TensorFlow World: http://tensorflow-world.readthedocs.io/en/latest/
 
-This repository aims to provide simple and ready-to-use tutorials for Monte Carlo Ray Trace Method applied in Radiation Heat Transfer. The explanations are present in the wiki_ associated with this repository.
+This repository aims to provide simple and ready-to-use tutorials for Monte Carlo Ray Trace Method applied in Radiation Heat Transfer.
 
 Each tutorial includes ``source code`` and associated ``documentation``.
 
