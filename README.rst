@@ -31,7 +31,7 @@ Why use Monte Carlo Ray Trace?
 ---
 
 =================================================
-TensorFlow Installation and Setup the Environment
+Installation and Setup the Environment
 =================================================
 
 ---
