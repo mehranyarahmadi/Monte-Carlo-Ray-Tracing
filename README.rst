@@ -4,7 +4,7 @@
 ********************
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1407187.svg
    :target: https://doi.org/10.5281/zenodo.1407154
-********************
+   
 .. image:: https://github.com/mehranyarahmadi/MCRT/raw/master/Download.jpg
    :target: https://doi.org/10.5281/zenodo.1407154
 
