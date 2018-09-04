@@ -38,7 +38,11 @@ Tutorial on Monte Carlo Ray Trace
 
 In the MCRT method, the distribution factor matrix is populated by tracing a large number of rays as they navigate within an enclosure subject to the rules of geometrical optics, which treat the surface absorptivities and reflectivities as probabilities. Use of distribution factors in radiation analysis requires that the enclosure be subdivided into a sufficiently large number 𝑛 of surface elements to achieve the desired spatial resolution. For the case of a gray enclosure the distribution factors are related to the temperatures and net heat fluxes from the surfaces according to
 
+.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download_Button.png
 
+where
+
+.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download_Button.png
 
 =============
 Contributing
