@@ -46,7 +46,7 @@ where
 
 Figure below shows the logic block diagram of the Monte Carlo ray-trace method for gray,diffuse specular enclosures.
 
-.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download_Button.png
+.. image:: https://github.com/mehranyarahmadi/Monte-Carlo-Ray-Tracing/blob/master/Algorithm.jpg
 =============
 Contributing
 =============
