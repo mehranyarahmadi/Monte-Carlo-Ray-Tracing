@@ -42,7 +42,7 @@ In the MCRT method, the distribution factor matrix is populated by tracing a lar
 
 where
 
-.. image:: https://github.com/mehranyarahmadi/MCRT/blob/master/Download_Button.png
+.. image:: https://github.com/mehranyarahmadi/Monte-Carlo-Ray-Tracing/blob/master/Eq%20(2).JPG
 
 =============
 Contributing
