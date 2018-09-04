@@ -24,7 +24,7 @@ Table of Contents
 Motivation
 ============
 
-In the absence of a participating medium, the radiation distribution factor 𝐷𝑖𝑗 is defined as the fraction of the power emitted by surface element 𝑖 that is absorbed by surface element 𝑗, due both to direct radiation and to all possible reflections [1]. Note that this is not the same entity as the purely geometrical configuration factor 𝐹𝑖𝑗, defined as the fraction of diffusely distributed power leaving (emitted plus reflected) surface i and arriving at (but not necessarily absorbed by) surface j by direct radiation only. The configuration factor is central to the net-exchange, or radiosity-irradiance, method, while the distribution factor lies at the heart of the Monte Carlo ray-trace (MCRT) method.
+In the absence of a participating medium, the radiation distribution factor 𝐷𝑖𝑗 is defined as the fraction of the power emitted by surface element 𝑖 that is absorbed by surface element 𝑗, due both to direct radiation and to all possible reflections. Note that this is not the same entity as the purely geometrical configuration factor 𝐹𝑖𝑗, defined as the fraction of diffusely distributed power leaving (emitted plus reflected) surface i and arriving at (but not necessarily absorbed by) surface j by direct radiation only. The configuration factor is central to the net-exchange, or radiosity-irradiance, method, while the distribution factor lies at the heart of the Monte Carlo ray-trace (MCRT) method.
 
 ~~~~~~~~~~~~~~~~~~~~~
 Why use Monte Carlo Ray Trace?
