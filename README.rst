@@ -47,6 +47,14 @@ where
 Figure below shows the logic block diagram of the Monte Carlo ray-trace method for gray,diffuse specular enclosures.
 
 .. image:: https://github.com/mehranyarahmadi/Monte-Carlo-Ray-Tracing/blob/master/Algorithm.jpg
+
+=============
+Please Cite Our Paper
+=============
+
+Verification of Two-Dimensional Monte Carlo Ray-Trace Methodology in Radiation Heat Transfer Analysis
+cite as: arXiv:1810.05204
+
 =============
 Contributing
 =============
